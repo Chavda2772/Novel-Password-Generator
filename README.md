@@ -1,6 +1,6 @@
-# NovelPass Generator
+# Novel Password Generator
 
-**NovelPass Generator** is a secure and innovative browser extension designed to create strong, unique passwords for all your online accounts. Enhance your digital security with our powerful and user-friendly password generator.
+**Novel Password Generator** is a secure and innovative browser extension designed to create strong, unique passwords for all your online accounts. Enhance your digital security with our powerful and user-friendly password generator.
 
 ## Features
 
@@ -14,22 +14,22 @@
 
 1. **Chrome**:
    - Open the [Chrome Web Store](https://chrome.google.com/webstore/category/extensions).
-   - Search for "NovelPass Generator" and click "Add to Chrome."
+   - Search for "Novel Password Generator" and click "Add to Chrome."
    - Confirm by clicking "Add Extension."
 
 2. **Firefox**:
    - Open the [Firefox Add-ons Store](https://addons.mozilla.org/en-US/firefox/).
-   - Search for "NovelPass Generator" and click "Add to Firefox."
+   - Search for "Novel Password Generator" and click "Add to Firefox."
    - Confirm by clicking "Add."
 
 3. **Edge**:
    - Open the [Microsoft Edge Add-ons Store](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home).
-   - Search for "NovelPass Generator" and click "Get."
+   - Search for "Novel Password Generator" and click "Get."
    - Confirm by clicking "Add Extension."
 
 ## Usage
 
-1. Click on the NovelPass Generator icon in your browser toolbar.
+1. Click on the Novel Password Generator icon in your browser toolbar.
 2. Customize your password preferences (length, complexity, etc.).
 3. Click "Generate" to create a new password.
 4. View and manage your generated passwords through the password history feature.
@@ -37,7 +37,7 @@
 
 ## Configuration
 
-You can adjust NovelPass Generator settings to meet your needs:
+You can adjust Novel Password Generator settings to meet your needs:
 
 - **Password Length**: Specify the length of generated passwords.
 - **Character Types**: Choose from uppercase letters, lowercase letters, numbers, and symbols.
@@ -46,12 +46,12 @@ You can adjust NovelPass Generator settings to meet your needs:
 
 ## Privacy & Security
 
-NovelPass Generator prioritizes your privacy and security. We do not store or share any of your passwords. All password generation and history management occur locally on your device.
+Novel Password Generator prioritizes your privacy and security. We do not store or share any of your passwords. All password generation and history management occur locally on your device.
 
 ## Contributing
 
-We welcome contributions to NovelPass Generator! To contribute, fork the repository and submit a pull request.
+We welcome contributions to Novel Password Generator! To contribute, fork the repository and submit a pull request.
 
 ## License
 
-NovelPass Generator is licensed under the [MIT License](LICENSE).
+Novel Password Generator is licensed under the [MIT License](LICENSE).
